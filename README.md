@@ -20,7 +20,7 @@ Significantly reduces the time and learning costs associated with team literatur
 
 Before anything else, you need to clone this project:
 ```bash
-git clone xxxxxx
+git clone https://github.com/lishuang996/ReCoLit.git
 ```
 
 ### Front-end
